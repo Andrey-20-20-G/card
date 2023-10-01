@@ -17,22 +17,23 @@ const About = () => {
         <div className="about__data">
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
-            Я, Муромцев Роман, участник команды AI Enigma. В данном проекте я
-            занимался разработкой telegram-бота и обучением нейронной сети
+            Я, Муромцев Роман, в данном проекте занимался разработкой
+            telegram-бота и обучением нейронной сети. Работаю ML инженером в
+            компании TaleStorm
           </p>
           <a href="https://t.me/HeenUrpalainen" className="button button--flex">
-            Contact with me
+            Contact me
           </a>
         </div>
         <img src={AboutImg2} alt="" className="about__img" />
         <div className="about__data">
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
-            Я, Гаврилов Андрей, участник команды AI Enigma. В данном проекте я
-            занимался разработкой web-сайта и проектированием UI/UX дизайна.
+            Я, Гаврилов Андрей, В данном проекте занимался разработкой web-сайта
+            и проектированием UI/UX дизайна.
           </p>
           <a href="https://t.me/Graf_Gafr" className="button button--flex">
-            Contact with me
+            Contact me
           </a>
         </div>
         <img src={AboutImg3} alt="" className="about__img" />
@@ -44,7 +45,7 @@ const About = () => {
             Томск
           </p>
           <a href="https://t.me/Nyutaser" className="button button--flex">
-            Contact with me
+            Contact me
           </a>
         </div>
         <img src={AboutImg4} alt="" className="about__img" />
@@ -52,10 +53,10 @@ const About = () => {
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
             Я, Печёркина Алёна, в данном проекте выполняю роль
-            креатив-дизайнера. Работаю аналитиком в "Devlnside" второй год.
+            креатив-дизайнера. Работаю аналитиком в Devlnside второй год.
           </p>
           <a href="https://t.me/alllyonss" className="button button--flex">
-            Contact with me
+            Contact me
           </a>
         </div>
         <img src={AboutImg5} alt="" className="about__img" />
@@ -67,7 +68,7 @@ const About = () => {
             InfoServices» в городе Томск
           </p>
           <a href="https://t.me/itsqsitcsxou" className="button button--flex">
-            Contact with me
+            Contact me
           </a>
         </div>
       </div>

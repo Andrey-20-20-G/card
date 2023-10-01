@@ -58,12 +58,12 @@ const Data = () => {
 
       <h3 className="home__subtitle">IT-DEV</h3>
       <p className="home__description">
-        Мы команда AI Enigma, занимающаяся разработкой сервисов с использованием
+        Мы команда Enigma AI, занимающаяся разработкой сервисов с использованием
         ИИ
       </p>
 
       <a href="#contact" className="button button--flex">
-        Message Us
+        Message
         <svg
           class="button__icon"
           xmlns="http://www.w3.org/2000/svg"

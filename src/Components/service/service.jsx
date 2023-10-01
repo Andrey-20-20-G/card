@@ -10,7 +10,7 @@ const Service = () => {
 
       <div className="service__container container grid">
         <div className="service__data">
-          Чат-бот telegram для HR, использующий LLM для упращения взаимодействия
+          Чат-бот telegram для HR, использующий LLM для упрощения взаимодействия
           с сотрудниками компании Smart Consulting
         </div>
         <div className="service__data">
