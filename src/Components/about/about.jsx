@@ -30,7 +30,7 @@ const About = () => {
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
             Я, Гаврилов Андрей, В данном проекте занимался разработкой web-сайта
-            и проектированием UI/UX дизайна.
+            и проектированием UI/UX дизайна. Работаю FullStack-разработчиком в компании RIT Automation
           </p>
           <a href="https://t.me/Graf_Gafr" className="button button--flex">
             Contact me
@@ -41,8 +41,7 @@ const About = () => {
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
             Я, Сергеева Анна, в данном проекте выполняю роль
-            креатив-маркетолога. Работаю аналитиком в компании Devlniside в г.
-            Томск
+            креатив-маркетолога. Работаю аналитиком в компании Devlniside.
           </p>
           <a href="https://t.me/Nyutaser" className="button button--flex">
             Contact me
@@ -64,8 +63,8 @@ const About = () => {
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
             Я, Смородин Богдан, в данном проекте являюсь системным-бизнес
-            аналитиком. Работаю системным аналитиком в компании «Marketing
-            InfoServices» в городе Томск
+            аналитиком. Работаю системным аналитиком в компании Marketing
+            InfoServices
           </p>
           <a href="https://t.me/itsqsitcsxou" className="button button--flex">
             Contact me
