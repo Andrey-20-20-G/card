@@ -18,7 +18,7 @@ const About = () => {
           Я, Филиппова Дарья, в данном проекте являюсь системным аналитиком, 
           а также выполняю роль креатив-дизайнера. 
           </p>
-          <a href="https://t.me/HeenUrpalainen" className="button button--flex">
+          <a href="https://t.me/fillipovad" className="button button--flex">
             Contact me
           </a>
         </div>
@@ -29,7 +29,7 @@ const About = () => {
           Я, Панаев Иван, В данном проекте занимался разработкой телеграм бота. 
           Работаю backend разработчиком в компании AlgoWizards.
           </p>
-          <a href="https://t.me/Graf_Gafr" className="button button--flex">
+          <a href="https://t.me/ipanaev" className="button button--flex">
             Contact me
           </a>
         </div>
@@ -40,7 +40,7 @@ const About = () => {
           Я, Глебов Лев, в данном проекте занимался обучением нейронной сети. 
           Работаю ML инженером в компании DoubleCheck.
           </p>
-          <a href="https://t.me/Nyutaser" className="button button--flex">
+          <a href="https://t.me/mo_n1k" className="button button--flex">
             Contact me
           </a>
         </div>
