@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Enigma AI
+        Kuantum Düşünürle
         <svg
           width="36"
           height="36"
@@ -58,8 +58,7 @@ const Data = () => {
 
       <h3 className="home__subtitle">IT-DEV</h3>
       <p className="home__description">
-        Мы команда Enigma AI, занимающаяся разработкой сервисов с использованием
-        ИИ
+        Kuantum Düşünürle - команда, использующая ИИ для решения технических задач
       </p>
 
       <a href="#contact" className="button button--flex">

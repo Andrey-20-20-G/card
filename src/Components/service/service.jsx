@@ -10,8 +10,7 @@ const Service = () => {
 
       <div className="service__container container grid">
         <div className="service__data">
-          Чат-бот telegram для HR, использующий LLM для упрощения взаимодействия
-          с сотрудниками компании Smart Consulting
+          Telegram чат-бот для верификации товаров для компании росаккредитация
         </div>
         <div className="service__data">
           <div className="section__title">
@@ -23,7 +22,7 @@ const Service = () => {
                 width: "30%",
                 paddingTop: "12px",
               }}
-              value="https://web.telegram.org/a/#6538637679"
+              value="https://t.me/digitalbreakthrough_bot"
               viewBox={`0 0 256 256`}
             />
           </div>

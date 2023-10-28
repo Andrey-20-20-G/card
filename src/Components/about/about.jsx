@@ -4,8 +4,6 @@ import "../header/header.css";
 import AboutImg1 from "../../assets/about1.jpg";
 import AboutImg2 from "../../assets/about2.jpg";
 import AboutImg3 from "../../assets/about3.jpg";
-import AboutImg4 from "../../assets/about4.jpg";
-import AboutImg5 from "../../assets/about5.jpg";
 
 const About = () => {
   return (
@@ -17,9 +15,8 @@ const About = () => {
         <div className="about__data">
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
-            Я, Муромцев Роман, в данном проекте занимался разработкой
-            telegram-бота и обучением нейронной сети. Работаю ML инженером в
-            компании TaleStorm
+          Я, Филиппова Дарья, в данном проекте являюсь системным аналитиком, 
+          а также выполняю роль креатив-дизайнера. 
           </p>
           <a href="https://t.me/HeenUrpalainen" className="button button--flex">
             Contact me
@@ -29,8 +26,8 @@ const About = () => {
         <div className="about__data">
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
-            Я, Гаврилов Андрей, В данном проекте занимался разработкой web-сайта
-            и проектированием UI/UX дизайна. Работаю FullStack-разработчиком в компании RIT Automation
+          Я, Панаев Иван, В данном проекте занимался разработкой телеграм бота. 
+          Работаю backend разработчиком в компании AlgoWizards.
           </p>
           <a href="https://t.me/Graf_Gafr" className="button button--flex">
             Contact me
@@ -40,33 +37,10 @@ const About = () => {
         <div className="about__data">
           <h3 className="about__title">Обо мне</h3>
           <p className="about__description">
-            Я, Сергеева Анна, в данном проекте выполняю роль
-            креатив-маркетолога. Работаю аналитиком в компании Devlniside.
+          Я, Глебов Лев, в данном проекте занимался обучением нейронной сети. 
+          Работаю ML инженером в компании DoubleCheck.
           </p>
           <a href="https://t.me/Nyutaser" className="button button--flex">
-            Contact me
-          </a>
-        </div>
-        <img src={AboutImg4} alt="" className="about__img" />
-        <div className="about__data">
-          <h3 className="about__title">Обо мне</h3>
-          <p className="about__description">
-            Я, Печёркина Алёна, в данном проекте выполняю роль
-            креатив-дизайнера. Работаю аналитиком в Devlnside второй год.
-          </p>
-          <a href="https://t.me/alllyonss" className="button button--flex">
-            Contact me
-          </a>
-        </div>
-        <img src={AboutImg5} alt="" className="about__img" />
-        <div className="about__data">
-          <h3 className="about__title">Обо мне</h3>
-          <p className="about__description">
-            Я, Смородин Богдан, в данном проекте являюсь системным-бизнес
-            аналитиком. Работаю системным аналитиком в компании Marketing
-            InfoServices
-          </p>
-          <a href="https://t.me/itsqsitcsxou" className="button button--flex">
             Contact me
           </a>
         </div>
