@@ -11,7 +11,7 @@ const Social = () => {
         <i className="uil uil-dribbble"></i>
       </a>
 
-      <a href="https://github.com/Roman12322/TGBOT" className="home__social-icon" target="_blank">
+      <a href="https://github.com/panaglev/RosakkreditatsiyaBot" className="home__social-icon" target="_blank">
         <i className="uil uil-github-alt"></i>
       </a>
     </div>
